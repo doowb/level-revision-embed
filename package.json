@@ -1,0 +1,35 @@
+{
+  "name": "level-revision-embed",
+  "description": "Embedded revision strategy for level-revision.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/doowb/level-revision-embed",
+  "author": {
+    "name": "Brian Woodward",
+    "url": "https://github.com/doowb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doowb/level-revision-embed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doowb/level-revision-embed/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/doowb/level-revision-embed/blob/master/LICENSE"
+  },
+  "files": ["index.js"],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": []
+}
