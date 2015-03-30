@@ -30,5 +30,8 @@
   },
   "devDependencies": {
     "mocha": "*"
+  },
+  "dependencies": {
+    "object-omit": "^1.0.0"
   }
 }
